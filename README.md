@@ -1,0 +1,1 @@
+This is an example of a restaurant website to show different dishes.
